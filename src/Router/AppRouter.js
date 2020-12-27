@@ -1,3 +1,4 @@
+import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import DetailPage from "../Pages/DetailPage";
